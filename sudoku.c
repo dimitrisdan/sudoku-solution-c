@@ -1,6 +1,5 @@
 //Dimitris Danampasis 050097
 //Teliki Ergasia
-//Trith 14:00 - 16:00
 
 #include "mpi.h"
 #include <stdio.h>
